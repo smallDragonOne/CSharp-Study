@@ -1,1 +1,9 @@
 C:\Users\zj\Desktop\c#\cSharp\cSharp\bin\Debug\cSharp.exe.config
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\bin\Debug\cSharp.exe.config
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\bin\Debug\cSharp.exe
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\bin\Debug\cSharp.pdb
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\obj\Debug\cSharp.csprojResolveAssemblyReference.cache
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\obj\Debug\cSharp.exe
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\obj\Debug\cSharp.pdb
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\bin\Debug\CsharpLibrary.dll
+C:\Users\zj\Desktop\个人项目\c#\cSharp\cSharp\bin\Debug\CsharpLibrary.pdb

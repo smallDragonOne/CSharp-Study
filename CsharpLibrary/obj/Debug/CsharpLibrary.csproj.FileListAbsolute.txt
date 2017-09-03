@@ -1,0 +1,5 @@
+C:\Users\zj\Desktop\个人项目\c#\cSharp\CsharpLibrary\bin\Debug\CsharpLibrary.dll
+C:\Users\zj\Desktop\个人项目\c#\cSharp\CsharpLibrary\bin\Debug\CsharpLibrary.pdb
+C:\Users\zj\Desktop\个人项目\c#\cSharp\CsharpLibrary\obj\Debug\CsharpLibrary.csprojResolveAssemblyReference.cache
+C:\Users\zj\Desktop\个人项目\c#\cSharp\CsharpLibrary\obj\Debug\CsharpLibrary.dll
+C:\Users\zj\Desktop\个人项目\c#\cSharp\CsharpLibrary\obj\Debug\CsharpLibrary.pdb

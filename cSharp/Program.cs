@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+using cSharp.Basic;
 
 namespace cSharp
 {
@@ -10,6 +7,10 @@ namespace cSharp
     {
         static void Main(string[] args)
         {
+
+            new ReflectionTest().DoTest();
+
+            Console.ReadKey();
         }
     }
 }

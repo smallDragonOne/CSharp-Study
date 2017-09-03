@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace cSharp.Generic
+namespace CsharpLibrary.Generic
 {
     /// <summary>
     /// 方法泛型
