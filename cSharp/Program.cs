@@ -1,5 +1,8 @@
 ﻿
 using cSharp.Basic;
+using System;
+using System.Reflection;
+using CsharpLibrary.Reflection;
 
 namespace cSharp
 {
@@ -11,6 +14,13 @@ namespace cSharp
             new ReflectionTest().DoTest();
 
             Console.ReadKey();
+
+            var reflection = new ReflectClass();
+            Type t = reflection.GetType();
+            foreach (var p in t.GetProperties())
+            {
+                
+            }
         }
     }
 }

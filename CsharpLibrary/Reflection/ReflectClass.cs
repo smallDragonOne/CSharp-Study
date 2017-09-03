@@ -8,6 +8,8 @@ namespace CsharpLibrary.Reflection
 {
     public class ReflectClass
     {
+
+        public string str;
         public ReflectClass()
         {
             Console.WriteLine($"name is{this.GetType().FullName}");
@@ -16,6 +18,16 @@ namespace CsharpLibrary.Reflection
         public string getSomeThing()
         {
             return "Ok";
+        }
+
+        public int getSomeThing(int a)
+        {
+            return a;
+        }
+
+        private string getSometing(string b)
+        {
+            return b;
         }
     }
 }
