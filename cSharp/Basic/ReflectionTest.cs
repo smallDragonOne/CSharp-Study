@@ -51,7 +51,7 @@ namespace cSharp.Basic
 
             foreach (var p in type.GetProperties())
             {
-                if (p.Name.Equals("str"))  ///给str属性设置
+                if (p.Name.Equals("str"))  ///给str属性 设置
                 {
                     p.SetValue(ob, "123");   
                 }

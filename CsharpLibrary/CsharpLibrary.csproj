@@ -40,6 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DesignPattern\Factory\AbstractFactory.cs" />
+    <Compile Include="DesignPattern\Factory\AbstractProduct.cs" />
+    <Compile Include="DesignPattern\Factory\AbstractProduct2.cs" />
+    <Compile Include="DesignPattern\Factory\CustomFactory.cs" />
+    <Compile Include="DesignPattern\Factory\CustomFactory2cs.cs" />
+    <Compile Include="DesignPattern\Factory\CustomProduct.cs" />
+    <Compile Include="DesignPattern\Factory\CustomProduct2.cs" />
+    <Compile Include="DesignPattern\Factory\IAbstractFactory.cs" />
+    <Compile Include="DesignPattern\Factory\IAbstractProduct.cs" />
+    <Compile Include="DesignPattern\Factory\IAbstractProduct2.cs" />
+    <Compile Include="DesignPattern\Factory\ICustomFactory.cs" />
+    <Compile Include="DesignPattern\Factory\ICustomProduct.cs" />
+    <Compile Include="DesignPattern\Factory\ISimpleFactory.cs" />
+    <Compile Include="DesignPattern\Factory\ISimpleProduct.cs" />
+    <Compile Include="DesignPattern\Factory\SimpleFactory.cs" />
+    <Compile Include="DesignPattern\Factory\SimpleProduct.cs" />
     <Compile Include="Generic\ClassGeneric.cs" />
     <Compile Include="Generic\MedthodGeneric.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -47,7 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Attribute\" />
-    <Folder Include="DesignPattern\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
